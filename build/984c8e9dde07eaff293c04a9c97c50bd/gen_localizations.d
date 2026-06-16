@@ -1,0 +1,1 @@
+ D:\\Mahra_Store\\mahra_store\\lib\\l10n\\app_localizations_ar.dart D:\\Mahra_Store\\mahra_store\\lib\\l10n\\app_localizations_en.dart D:\\Mahra_Store\\mahra_store\\lib\\l10n\\app_localizations.dart:  D:\\Mahra_Store\\mahra_store\\l10n.yaml D:\\Mahra_Store\\mahra_store\\lib\\l10n\\app_ar.arb D:\\Mahra_Store\\mahra_store\\lib\\l10n\\app_en.arb
