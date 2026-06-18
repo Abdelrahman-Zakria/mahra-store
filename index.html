@@ -18,7 +18,7 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
+  <meta name="description" content="Mahra EG E-commerce">
 
   <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
@@ -31,6 +31,20 @@
 
   <title>Mahra EG</title>
   <link rel="manifest" href="manifest.json">
+  <script type="text/javascript">
+    // Start of SPA Redirect Script
+    (function(l) {
+      if (l.search[1] === '/' ) {
+        var decoded = l.search.slice(1).split('&').map(function(s) {
+          return s.replace(/~and~/g, '&')
+        }).join('?');
+        window.history.replaceState(null, null,
+            l.pathname.slice(0, -1) + decoded + l.hash
+        );
+      }
+    }(window.location))
+    // End of SPA Redirect Script
+  </script>
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>
