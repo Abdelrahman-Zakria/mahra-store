@@ -108787,7 +108787,7 @@ l(){this.d.l()
 this.aQ()},
 L(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=A.bK(a,B.cN,t.l).w,h=A.b([k.a.c.w],t.s)
 B.b.P(h,k.a.c.ay)
-i=i.a.a>800?1/0:400
+i=i.a.a>800?600:400
 s=k.a.c
 r=t.p
 s=A.b([A.apc(A.b2S(k.d,new A.aOq(h),h.length,new A.aOr(k)),j,j,j,"product_image_"+s.a,!1)],r)
